@@ -1,5 +1,6 @@
 * {
-    box-sizing:border-box
+    box-sizing:content-box
+    padding 5px
 }
 
 body {
@@ -36,6 +37,10 @@ section {
     padding: 2em;
     border-style: solid;
     border-width: 1x;
+
+    #contact {
+        display: flex;
+    }
 }
 
 #work img {
@@ -43,27 +48,27 @@ section {
     /* width: 50%; */
     }
     /* height: auto; */
-    display: block;
+    display block
     /* width: 50%; */
-}
+
 
 .work-item.larger img {
     width: 150%; /* Adjust as needed */
-    height: auto;
+    height: 10%;
 }
 
-/* Cards are split into two columns at 992px or smaller */
+/* section changes colors at 992px or smaller */
 @media screen and (max-width: 992px) {
     section {
-        width 70%;
-        padding: 1em;
+        width 50%
+        padding: 1em
     }
     /* Change the header color */
     header {
         background: #FF5722;
     }
 
-/* Cards are stacked on top of each other at 768px or smaller */  
+/* section changes colors at 768px or smaller */  
 @media screen and (max-width: 768px) {
     section {
         width 100%;
@@ -74,4 +79,3 @@ section {
         background: #45e141
     }
 }
-    

@@ -1,14 +1,13 @@
 # <AllowMeToReintroduceMyself>
 
 ## Key Objective 
-The key objective of this project is to provide developers with a clean and customizable portfolio template that adheres to best practices in HTML structure, accessibility, and responsive design. Additionally, the project aims to help developers showcase their skills, projects, and contact information effectively while maintaining code cleanliness. Deploying the portfolio with a live URL allows developers to share their work with the world.
+The key objective of this project is to provide a clean and customizable portfolio template that adheres to best practices in HTML structure, accessibility, and responsive design. Additionally, the project aims to help developers showcase their skills, projects, and contact information effectively while maintaining code cleanliness. Deploying the portfolio with a live URL allows developers to share their work with the world.
 
 ## Description
 This repository contains the source code for my developer portfolio website. The portfolio website is designed to showcase my skills, projects, and contact information. It features a clean and responsive layout with sections for my bio, work (applications), and contact details. The portfolio also includes navigation links that smoothly scroll to the corresponding sections and links to deployed applications. Key features include semantic HTML structure, alt attributes for images, a descriptive title element, and responsive design for various screen sizes.
 
 ## Table of Contents
 
-- [Installaion](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [Features](#features)
@@ -16,9 +15,25 @@ This repository contains the source code for my developer portfolio website. The
 
 ## Usage
 
+After installing and customizing the portfolio, I can use it to showcase my work and skills. Here are some usage tips:
+
+Navigation: Use the navigation links at the top to navigate to different sections of the portfolio. These links smoothly scroll to the corresponding sections.
+
+Work Section: In the "Work" section, include images of your projects and provide links to the deployed applications. When visitors click on the images, they will be directed to the respective project.
+
+Responsive Design: Test the portfolio on various devices to ensure it maintains a responsive layout and provides an optimal user experience.
+
 ## Credits
 
 https://domj1204.github.io/Code-Refactor/
+
+file:///Users/domonicjennings/Desktop/bootcamp/Module%201,2,%20&%203/02-Advanced-CSS/01-Activities/02-Stu_Media-Query-Screen/Solved/index.html
+
+https://www.linkedin.com/in/domonic-r-jennings/
+
+https://mail.google.com/mail/u/0/#inbox
+
+https://twitter.com/?lang=en
 
 ## Features
 Semantic HTML Structure: The portfolio is built using semantic HTML elements, providing meaningful structure and enhancing accessibility and SEO.
